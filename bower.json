@@ -1,0 +1,23 @@
+{
+  "name": "WujiangGallery",
+  "description": "gallery",
+  "authors": [
+    "Lizhuo Yang <druss520@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "gallery"
+  ],
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
